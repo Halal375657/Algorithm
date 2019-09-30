@@ -1,6 +1,6 @@
 '''
 
-    ComplixitY:- O(n^2)
+    ComplixitY:- O(n)
 
 '''
 
