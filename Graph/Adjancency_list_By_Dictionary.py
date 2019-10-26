@@ -1,4 +1,4 @@
-#Adjacency list by Dictionay.
+#A simple representation of graph using Adjacency List.Implement by dictionary.
 
 class Graph:
     def __init__(self, vertex):
