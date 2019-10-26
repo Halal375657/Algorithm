@@ -1,4 +1,4 @@
-#Adjacency list.
+#A simple representation of graph using Adjacency List.
 #Space: O(V+E),there, E is number of edge and V is number of Verteces.
 
 class AdjNode:
