@@ -11,6 +11,8 @@ class Graph:
     # Function to add an edge to graph.
     def addEdge(self, u, v):
         self.graph[u].append(v)
+        #For indirected graph.
+        self.graph[v].append(u)
 
     # Functin to print a BFS of graph.
     def BFS(self, source):
