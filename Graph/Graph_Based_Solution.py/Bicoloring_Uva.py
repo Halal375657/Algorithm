@@ -1,4 +1,4 @@
-#https://onlinejudge.org/external/100/10004.pdf
+#Problem Link:- https://onlinejudge.org/external/100/10004.pdf
 
 from collections import defaultdict
 
