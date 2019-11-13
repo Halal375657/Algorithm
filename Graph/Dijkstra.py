@@ -39,4 +39,4 @@ if __name__ == "__main__":
                [0, 0, 3, 0]
                ]
     shortest_distance = g.dijkstra(0)
-    print(shortest_distance)
+    print(' -> '.join(str(distance), for distance in shortest_distance)
